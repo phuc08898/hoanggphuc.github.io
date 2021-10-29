@@ -1,0 +1,347 @@
+body { background: rgb(164, 240, 233);
+    
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    background-size: 1800% 1800%;
+    -webkit-animation: rainbow 18s ease infinite;
+    -z-animation: rainbow 18s ease infinite;
+    -o-animation: rainbow 18s ease infinite;
+    animation: rainbow 18s ease infinite;
+}
+
+.hocvan{
+    background-color: red;
+    display: flex;
+    flex-direction: column;
+    margin:0;
+}
+.hoatdong{
+    background-color: red;
+}
+
+h1 {font-size: 21px; line-height: 2.3;}
+.mai {
+    display: flex;
+}
+.infotext2 {
+    width: 80%;
+    margin: 10px auto;
+    background-color:rgba(117, 169, 204, 0.7);
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: 0 0 0 3px rgb(211, 138, 42) ;
+}
+
+
+    
+
+
+.flexbox{
+    margin: 0 auto;
+    max-width: 900px;
+    display: flex;
+    height: auto;
+}
+.mar {
+    margin:10px;
+}
+
+.information {
+    text-align: center;
+    color:rgb(0, 0, 0);
+    background-color: rgba(117, 169, 204, 0.7);
+    padding:20px;
+    border-radius: 30px;
+    width: 75%;
+    box-shadow: 0 0 0 3px #000;
+}
+.imgage1{
+    background-color: red;
+}
+.imgage2{background-color: red;}
+.imgage3{background-color: red ;}
+.imgage4{background-color:rgb(231, 231, 72);}
+.addcart{background-color: greenyellow;}
+.information h1 {color:rgb(255, 153, 153);}
+
+.information h3 {
+    font-weight: 400;
+    font-size: 26px;
+}
+
+.infotext {
+    width: 80%;
+    margin: 10px auto;
+    background-color:rgb(104, 218, 59);
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: 0.0.11;
+}
+
+.information2 {
+    color:white;
+    width: 35%;   
+}
+
+.allbox {
+    background-color: rgba(118, 181, 223, 0.7);
+    border-radius: 30px;
+    padding: 20px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 0 3px #000;
+}
+
+.box3 {
+    display: flex;
+    flex-direction: column;
+    margin:0;
+}
+.box4{display: flex;
+    flex-direction: column;
+    margin:0;
+    box-shadow: 0 0 0 3px rgb(27, 48, 235) ;}
+.box5{ display: flex;
+    flex-direction: column;
+    margin:0;
+   height: 67   px; width: 500px;
+   font-family: Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    background: linear-gradient(
+124deg
+, #e42608, #a9adab, #161718, #131113, #20d63e, #28989e, #6b63db, #c03fcc, #e153ee);
+    background-size: 1800% 1800%;
+    -webkit-animation: rainbow 18s ease infinite;
+    -z-animation: rainbow 18s ease infinite;
+    -o-animation: rainbow 18s ease infinite;
+    animation: rainbow 17s ease infinite;
+  
+  
+}
+.chungchi{
+    background-color: red;
+    width: 80%;
+    margin: 10px auto;
+    
+    padding: 15px;
+    border-radius: 30px;
+    box-shadow: 0 0 0 3px rgb(0, 0, 0) ;
+    
+}
+.lamquen{
+    background-color: blue;
+}
+.quen {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    background: linear-gradient(
+124deg
+, #e42608, #a9adab, #161718, #131113, #20d63e, #28989e, #6b63db, #c03fcc, #e153ee);
+    background-size: 1800% 1800%;
+    -webkit-animation: rainbow 18s ease infinite;
+    -z-animation: rainbow 18s ease infinite;
+    -o-animation: rainbow 18s ease infinite;
+    animation: rainbow 17s ease infinite;
+  
+}
+
+.information2 h1 {color:rgb(255, 153, 153)}
+
+.information2 p {font-size: 20px}
+
+.button {
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 30px;
+    box-shadow: 0 0 0 2px rgb(111, 172, 223);
+}
+
+.facebook {
+    width: auto;height: 15px; 
+    background-color:blue;
+}
+.instagram{
+    background-color: #c7db12;
+}
+.insta {
+    background-color:rgb(228, 74, 74);
+}
+.shop{
+    color: #000;
+    background-color: rgb(60, 199, 42);
+}
+.code{
+    background-color: rgb(35, 194, 186);
+}
+.boxing{
+    background-color: firebrick;
+}
+.pange{
+    background-color: red;
+   
+}
+.kynang{
+    background-color: red;
+}
+.quay{
+    background-color: greenyellow;
+    font-size:30px;
+    
+       
+    
+}
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow { 
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}
+
+@media screen and (max-width: 800px) {
+    .information {
+        width: 50%;
+    }
+    .information2 {
+        width: 50%;
+    }
+    .hinhanh {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .information h3 {
+        font-size: 20px;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .flexbox {
+        display: block;
+    }
+    .information {
+        width: auto;
+    }
+    .information2 h1 {text-align: center;}
+    .information2 p {text-align:center;}
+    .information2 {
+        width: auto;
+    }
+    .main {
+        width: auto;
+        padding: 20px;
+    }
+}
+
+@media screen and (max-width: 430px) {
+    h1 {font-size: 24px}
+    .information2 p {font-size:18px}
+    .information h3 {font-size:18px}
+}
+
+.khung{background-color:rgb(69, 69, 216);}
+.name {background-color:rgb(69,69,216);}
+.number{background-color:rgb(69, 69, 216);;}
+.number1{background-color:rgb(69, 69, 216);;}
+.number2{background-color: red;}
+.đánh_giá{background-color: forestgreen;}
+.fame{
+    width: 100%;
+    height: 50%;    
+    
+    
+    
+   
+}
+.share{
+    background-color: blue;
+}
+
+
+
+
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    background: linear-gradient(
+124deg
+, #e42608, #a9adab, #161718, #131113, #20d63e, #28989e, #6b63db, #c03fcc, #e153ee);
+    background-size: 1800% 1800%;
+    -webkit-animation: rainbow 18s ease infinite;
+    -z-animation: rainbow 18s ease infinite;
+    -o-animation: rainbow 18s ease infinite;
+    animation: rainbow 17s ease infinite;
+  
+}
+
+body {
+    overflow-wrap: break-word;
+    word-break: break-word;
+    word-wrap: break-word;
+}
+::-webkit-scrollbar {
+    width: 0
+px
+;
+}
+.fame{
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    background: linear-gradient(
+124deg
+, #e42608, #a9adab, #161718, #131113, #20d63e, #28989e, #6b63db, #c03fcc, #e153ee);
+    background-size: 1800% 1800%;
+    -webkit-animation: rainbow 18s ease infinite;
+    -z-animation: rainbow 18s ease infinite;
+    -o-animation: rainbow 18s ease infinite;
+    animation: rainbow 17s ease infinite;
+  
+}
+element.style {
+    display: none;
+}
+.thongtin{
+    background-color: red;
+}
+.hoangphuc{
+    font-family: Helvetica, Arial, sans-serif;
+    margin: 0 auto;
+    background: linear-gradient(
+124deg
+, #e42608, #a9adab, #161718, #131113, #20d63e, #28989e, #6b63db, #c03fcc, #e153ee);
+    background-size: 1800% 1800%;
+    -webkit-animation: rainbow 18s ease infinite;
+    -z-animation: rainbow 18s ease infinite;
+    -o-animation: rainbow 18s ease infinite;
+    animation: rainbow 17s ease infinite;
+}
+.key{
+    background-color: blue;
+}
